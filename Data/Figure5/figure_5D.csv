@@ -1,0 +1,21 @@
+gene,scores,KEGG Pathway
+CD44,1.0,ECM-receptor interaction
+PDK4,-1.0,Others
+TMSB10,0.7050439846381347,Others
+ANXA2,0.680153660039633,Others
+RGS4,-0.6636131284769173,Others
+SERPINA1,0.29483747865917,Complement and coagulation cascades
+CTSL,0.1766952948300189,Rheumatoid arthritis
+SPP1,0.1518756885096806,ECM-receptor interaction
+CD36,-0.1416819062056817,ECM-receptor interaction
+LAMC2,0.125694641270654,ECM-receptor interaction
+F3,-0.1142304409108697,Complement and coagulation cascades
+BDKRB2,0.1009686796379947,Complement and coagulation cascades
+CSF1,-0.0933900496665115,Rheumatoid arthritis
+SERPING1,-0.0908567800154159,Complement and coagulation cascades
+ICAM1,0.0833195645511584,Malaria
+CCL2,0.0776764740670902,Malaria
+TGFB2,-0.0595255436588703,Malaria
+SDC1,0.0581422606164654,Malaria
+IL11,-0.053006998516062,Rheumatoid arthritis
+CXCL8,0.0467552490717867,Rheumatoid arthritis
